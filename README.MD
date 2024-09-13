@@ -1,2 +1,4 @@
 # Flowbite Template Project
-Clone this repo and get started using Flowbite immediately!
+- Clone this repo
+- Run `npm install`
+- Start using flowbite!
